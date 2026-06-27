@@ -7,8 +7,8 @@ Welcome to the official, enterprise-grade School Connect management platform gen
 This fully-featured platform adapts to traditional and modern build deployments. It comes built-in with features like offline access, push notifications, row-level security, and a beautiful UI tailored to your specific branding choices.
 
 **School Motto:** Excellence in Learning and Character
-**Branding Theme:** theme20 (Primary: #0ffe2e, Accent: #02b3a8)
-**Typography:** Lato
+**Branding Theme:** theme2 (Primary: #1c72e7, Accent: #5e2174)
+**Typography:** Montserrat
 
 ---
 
@@ -47,9 +47,9 @@ This platform supports the build type you selected during generation: **TRADITIO
 
 ## 📦 Enabled Modules
 Your platform is pre-configured with the following modules:
-- **Academic Setup**
 - **Students & Profiles**
 - **Staff / Teachers**
+- **Academic Setup**
 - **Classes**
 - **Subjects**
 - **Attendance**
@@ -92,14 +92,14 @@ Your platform is pre-configured with the following modules:
 - **Certificates & Documents**
 - **Custom Document Builder**
 - **Advanced Fleet GPS**
-- **Facility Booking**
 - **Compliance & Audit**
 - **Audit / Activity Log**
+- **Facility Booking**
 - **Academic Records & Broadsheets**
 - **About the Developer**
 - **Student Diary**
-- **Surveys & Forms**
 - **Announcements**
+- **Surveys & Forms**
 - **Events & Calendar**
 - **Messaging (WA/Email)**
 - **In-App Inbox**

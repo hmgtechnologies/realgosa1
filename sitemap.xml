@@ -6,9 +6,9 @@
   <url><loc>/voting.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/notifications.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/about.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>/academic_setup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/students.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/staff.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>/academic_setup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/classes.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/subjects.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/attendance.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -51,14 +51,14 @@
   <url><loc>/certificates.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/document_builder.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/fleet_tracking.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>/facility_booking.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/compliance.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/activity_log.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>/facility_booking.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/academic_records.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/developer.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/diary.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>/surveys.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/announcements.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>/surveys.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/events.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/messages.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>/inbox.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
