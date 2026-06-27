@@ -12,18 +12,18 @@ window.SCHOOL = {
   phone:   '2348088667076',
   email:   'godofseedacademy@gmail.com',
   address: '63B, Ishaga Abosule Street, Agbado Crossing, Ogun State',
-  campuses:["Main Campus"],
-  theme:   'theme20',
-  font:    'lato',
-  fontFamily: 'Lato',
-  fontCss: 'Lato:wght@300;400;500;600;700',
-  layout:  'layout1',
-  modules: ["academic_setup","students","staff","classes","subjects","attendance","results","timetable","sow","cbt","cbt-prompts","report-cards","timetable-generator","checkin","assignments","library","digital_library","conduct","health","promotion","lms","gamification","career_counseling","lesson_plans","behaviour","support_plans","substitutions","entrance","storage","analytics","approvals","admin-data","settings","admissions","hr","payroll","staff_loans","staff_bonus","appraisals","hostel","alumni","inventory","certificates","document_builder","fleet_tracking","facility_booking","compliance","activity_log","academic_records","developer","diary","surveys","announcements","events","messages","inbox","complaints","broadcast","voting","parent_meeting","front_desk","helpdesk","menu","gallery","eresources","birthdays","idcards","flyer","reports","directory","departments","parents","school_calendar","lost_found","book_request","fees","finance","leave","visitors","transport","cafeteria","financial_aid","donations","payments_online","rubrics","transcripts","transfer_cert","counselling"],
+  campuses:[],
+  theme:   'theme2',
+  font:    'montserrat',
+  fontFamily: 'Montserrat',
+  fontCss: 'Montserrat:wght@300;400;500;600;700',
+  layout:  'layout0',
+  modules: ["students","staff","academic_setup","classes","subjects","attendance","results","timetable","sow","cbt","cbt-prompts","report-cards","timetable-generator","checkin","assignments","library","digital_library","conduct","health","promotion","lms","gamification","career_counseling","lesson_plans","behaviour","support_plans","substitutions","entrance","storage","analytics","approvals","admin-data","settings","admissions","hr","payroll","staff_loans","staff_bonus","appraisals","hostel","alumni","inventory","certificates","document_builder","fleet_tracking","compliance","activity_log","facility_booking","academic_records","developer","diary","announcements","surveys","events","messages","inbox","complaints","broadcast","voting","parent_meeting","front_desk","helpdesk","menu","gallery","eresources","birthdays","idcards","flyer","reports","directory","departments","parents","school_calendar","lost_found","book_request","fees","finance","leave","visitors","transport","cafeteria","financial_aid","donations","payments_online","rubrics","transcripts","transfer_cert","counselling"],
   levels:  ["JSS 1","JSS 2","JSS 3","SSS 1","SSS 2","SSS 3"],
   hmgLink: 'https://hmgconcepts.pages.dev/',
   logoExt: 'png',
-  primary: '#0ffe2e',
-  accent:  '#02b3a8'
+  primary: '#1c72e7',
+  accent:  '#5e2174'
 };
 
 // Build the supabase client
@@ -31,4 +31,4 @@ const sb = (window.supabase && SUPABASE_URL !== 'YOUR_SUPABASE_URL')
   ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY)
   : null;
 
-console.log('%c[God of Seed Academy] School Connect ready.', 'color:#0ffe2e;font-weight:bold;font-size:13px');
+console.log('%c[God of Seed Academy] School Connect ready.', 'color:#1c72e7;font-weight:bold;font-size:13px');
